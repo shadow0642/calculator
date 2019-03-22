@@ -1,0 +1,7 @@
+C:\Users\Kristóf\source\repos\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Kristóf\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kristóf\source\repos\calculator\calculator\bin\Debug\Számológép.exe.config
+C:\Users\Kristóf\source\repos\calculator\calculator\bin\Debug\Számológép.exe
+C:\Users\Kristóf\source\repos\calculator\calculator\bin\Debug\Számológép.pdb
+C:\Users\Kristóf\source\repos\calculator\calculator\obj\Debug\Számológép.exe
+C:\Users\Kristóf\source\repos\calculator\calculator\obj\Debug\Számológép.pdb
